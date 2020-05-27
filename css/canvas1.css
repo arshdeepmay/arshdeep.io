@@ -1,0 +1,12 @@
+canvas{
+  border:2px solid blue;
+  width:400px;
+  height:250px;
+}
+h1{
+  color:red;
+  font-size:35pt;
+}
+body{
+  background-color:yellow;
+}
